@@ -4,4 +4,4 @@
 
 3. select title from film where title ilike '%t%t%t%t%'
 
-4.select * from film where title like '%C%' and 90<length and rental_rate=2.99
+4.select * from film where title like '%C%' and 90<length and rental_rate=2.99 
